@@ -1,0 +1,7 @@
+transformers==4.28
+datasets 
+timm 
+accelerate 
+albumentations 
+wandb
+deepspeed
