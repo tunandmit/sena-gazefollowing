@@ -79,3 +79,8 @@ or run with simple setup
 ```
 bash scripts/finetune.sh
 ```
+
+## Evaluate SenA Gaze model
+```
+bash scripts/eval.sh
+```
